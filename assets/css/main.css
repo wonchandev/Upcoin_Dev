@@ -55,6 +55,16 @@ body::-webkit-scrollbar-thumb:hover {
   text-decoration: none;
 }
 
+.login a {
+  text-decoration: none;
+  color: #FAFAFA;
+}
+
+.console a {
+  text-decoration: none;
+  color: #000000;
+}
+
 .logo img {
   height: 50px;
 }
